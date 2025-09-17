@@ -1,0 +1,19 @@
+.services {
+  padding: 4em 2em;
+  text-align: center;
+
+  .service-list {
+    @include flex-center;
+    gap: 2em;
+
+    .service-item {
+      background: $secondary-color;
+      color: white;
+      padding: 2em;
+      border-radius: 10px;
+      width: 180px;
+    }
+  }
+
+  button { margin-top: 1em; }
+}
