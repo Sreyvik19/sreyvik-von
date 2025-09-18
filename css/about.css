@@ -138,4 +138,37 @@ body {
   color: #333;
   background: rgba(255, 255, 255, 0.051);
   line-height: 1.6;
+}
+.stats .stat-box h3 {
+  font-size: 1.8rem;
+  margin: 0;
+  color: #111;
+}
+.stats .stat-box p {
+  margin: 5px 0 0;
+  font-size: 0.95rem;
+  color: #777;
+}
+
+.story {
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
+}
+.story h3 {
+  text-align: center;
+  color: #009879;
+  margin-bottom: 20px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background: rgba(255, 255, 255, 0.051);
+  line-height: 1.6;
 }/*# sourceMappingURL=about.css.map */
