@@ -138,27 +138,14 @@ body {
   color: #333;
   background: rgba(255, 255, 255, 0.051);
   line-height: 1.6;
-}
-.stats .stat-box h3 {
-  font-size: 1.8rem;
-  margin: 0;
-  color: #111;
-}
-.stats .stat-box p {
-  margin: 5px 0 0;
-  font-size: 0.95rem;
-  color: #777;
-}
+}/*# sourceMappingURL=about.css.map */
 
-.story {
-  max-width: 800px;
-  margin: auto;
-  text-align: left;
+.footer .footer-bottom a {
+  color: #ff4d00;
+  text-decoration: none;
 }
-.story h3 {
-  text-align: center;
-  color: #009879;
-  margin-bottom: 20px;
+.footer .footer-bottom a:hover {
+  text-decoration: underline;
 }
 
 * {

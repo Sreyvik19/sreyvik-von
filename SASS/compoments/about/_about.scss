@@ -11,7 +11,7 @@
     color: $light-color;
     margin: 130px;
 
-    .team {
+    .team { 
       font-weight: bold;
       font-size: 30px;
     }
@@ -19,6 +19,27 @@
     .value {
       font-size: 20px;
       color: rgba(21, 7, 7, 0.885);
+    }
+  }
+}
+.media{
+  display: flex;
+  gap: 20px;
+  margin: 0px 20px;
+  .meda{
+     background: #fafafa;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      h4 {
+      font-size: 1.8rem;
+      margin: 0;
+      color: #111;
+    }
+    p {
+      margin: 5px 0 0;
+      font-size: 0.95rem;
+      color: #777;
     }
   }
 }
